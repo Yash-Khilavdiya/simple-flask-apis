@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mongodb-deployed-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_717CE01745A0487EA4296D7500481E6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B88FE83D407748ED866F691103532939 }}
